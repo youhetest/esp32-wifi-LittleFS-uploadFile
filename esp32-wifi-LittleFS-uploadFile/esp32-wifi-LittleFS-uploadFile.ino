@@ -4,8 +4,8 @@
 #include <LittleFS.h>
 
 // 定义你的 WiFi 网络的 SSID 和密码
-const char* WIFI_SSID = "coco";
-const char* WIFI_PASSWORD = "1212zxzx";
+const char* WIFI_SSID = "you-wifi-ssid";
+const char* WIFI_PASSWORD = "password";
 
 AsyncWebServer server(80);
 
